@@ -1,0 +1,129 @@
+.second {
+    padding-top: 50px;
+    
+}
+
+
+.cardone{
+    padding-left: 25px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+.cardone img{
+    height: 340px;
+    width: 622.3px;
+}
+
+
+
+.cardone:hover{
+    transform: scale(1.09);
+    transition: all 0.5s;
+}
+
+.bg1{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(2, 2, 2, 0.5)), url(../images/Rozzis\ _\ Corso\ Interior\ Architecture.jpg);
+    
+    background-size: cover;
+    border-radius: 10px;
+    
+} 
+
+.bg2{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(2, 2, 2, 0.5)), url(../images/Bar.jpg);
+    margin-right: px;
+    background-size: cover;
+    border-radius: 10px;
+    
+}
+
+.bg3{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(2, 2, 2, 0.5)), url(../images/breakfast.jpg);
+    margin-right: px;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.bg4{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5  ), rgba(2, 2, 2, 0.5)), url(../images/cofee.jpg);
+    margin-right: px;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.bg{
+    margin-left: 10px;
+    
+} 
+
+.third{
+    padding-top: 70px;
+    padding-left: 130px;
+    padding-bottom: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.fourth{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.thirdone{
+    margin: 30px;
+}
+
+.sam{
+    display: flex;
+    width: 1190px;
+    height: 330px;
+    display: flex;  
+   
+}
+
+.sam{   
+    gap: 10px;
+    padding-left:150px;
+    color: white;
+}
+
+
+
+
+.sam p{
+    margin-top: 270px;
+    margin-left: 15px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+.para{
+    padding-top: 30px;
+    padding-left: 15px;
+}
+
+.boxx{
+    margin-left: 30px;
+
+}
+
+.para1{
+    padding-top: 40px;
+    padding-left: 55px;
+}
+
+.para i{
+    padding-left: 230px;
+}
+
+.vi {
+    text-decoration: none;
+    color: black;
+}

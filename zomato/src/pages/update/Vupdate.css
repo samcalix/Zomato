@@ -1,0 +1,30 @@
+.addon{
+    margin-top: 30px;
+    margin-left: 30px;
+    position: fixed;
+    right: 10px;
+    z-index: 1;
+    font-size: 23px;
+}
+
+.addcard{
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+
+
+.updated{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+
+.uimg{
+    height: 220px;
+    width: 345px;
+}
+
+.ebutton{
+    margin-right: 10px;
+}

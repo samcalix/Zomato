@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.header img{
+    height: 27px;
+    margin-left: 180px;
+    margin-top: 7px;    
+}
+
+/* .top-search{
+    
+} */
+
+.top-search input{
+    height: 60px;
+    width: 600px;
+}
+
+.right-menu{
+    margin-left: 70px;  
+}
+
+.right-menu li a{
+    margin-right: 20px;
+    margin-top: 7px;
+    font-size: large;
+}
+
+.header p{
+    font-size: small;
+    margin-left: 196px;
+    margin-top: 10px;
+}
+
+.order img{
+    border-radius: 50%;
+    height: 150px;
+    width: px;
+    margin-right: 36px;
+}
+
+.tiffin{
+    height: 150px;
+    width: 150px;
+}
+
+.foodname ul{
+    padding-left: 245px;
+    padding-top: 10px;
+}
+
+.foodname li{
+    list-style: none;
+    display: inline;
+    padding-right: 130px;
+    font-size: x-large;
+    padding-top: 10px;
+}
+
+.inspiration{
+    margin-top: 30px;
+    background-color:rgb(248, 247, 247);
+    height: 380px;
+}
+
+.inspiration h2 {
+    padding-left: 189px;
+    padding-top: 43px;
+}
+
+.order{
+    padding-left: 189px;
+    padding-top: 35px;
+}
+
+.veg-menu h2{
+    padding-left: 13px;
+    padding-top: 20px;
+}
+
+.r1 img{
+    height: 250px;
+}
+
+.r1{
+    padding-top: 40px;
+}
+
+.foods{
+    padding-top: 30px;
+}
+
+.ln{
+    text-decoration: none;
+}

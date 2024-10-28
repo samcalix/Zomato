@@ -1,0 +1,54 @@
+.cart-header img {
+  height: 27px;
+  margin-left: 55px;
+  margin-top: 3px;
+}
+
+/* .cart-header{
+  position: fixed;
+  
+} */
+
+.cart-second {
+  margin-top: 30px;
+  padding-left: 0;
+}
+
+.cart-second img {
+  height: 260px;
+  width: 400px;
+}
+
+.cart-icon {
+  margin: 8px 0px 1px 9px;
+  font-size: 35px;
+}
+
+.linee {
+  display: flex;
+  padding-left: 63px;
+  padding-top: 10px;
+}
+
+.linee h4 {
+  margin-top: 12px;
+  margin-left: 6px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.bt1 {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.bt2 {
+  margin-right: 5px;
+}
+
+.bt3 {
+  margin-left: 5px;
+}
+
+

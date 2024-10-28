@@ -1,0 +1,73 @@
+.login{
+    
+    height: 460px;
+    width: 400px;
+    margin-left: 520px;
+    margin-top: 50px;
+    padding: 30px;             
+}
+
+.loginn{
+    height: 367px;
+    width: 400px;
+    margin-left: 520px;
+    margin-top: 50px;
+    padding: 30px;
+}
+
+.body{
+    background-color: rgb(19, 17, 17);
+    padding: 10px;
+    padding-bottom: 60px;
+}
+
+.login form{
+    margin-top: 20px;
+}
+
+.login form input{
+    margin-bottom: 20px;
+    /*padding-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;*/
+    padding-left: 7px; 
+    height: 50px;
+    width: 335px;
+}
+
+.login form button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 100px;
+    padding-right: 50px;
+    padding-left: 50px;
+    background-color: rgb(241, 52, 52);
+    color: white;
+    border-radius: 10px;
+}
+
+.loginn form{
+    margin-top: 20px;
+}
+
+.loginn form input{
+    margin-bottom: 20px;
+    /*padding-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;*/
+    padding-left: 7px;  
+    height: 50px;
+    width: 335px;
+}
+
+.loginn form button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 100px;
+    padding-right: 50px;
+    padding-left: 50px;
+    background-color: rgb(241, 52, 52);
+    color: white;
+    border-radius: 10px;
+}
+

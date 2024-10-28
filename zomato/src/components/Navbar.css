@@ -1,0 +1,115 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.first {
+    background: 
+      linear-gradient(to bottom, rgba(28, 28, 28, 0.5), rgba(69, 68, 68, 0.5)),
+      url(../images/bg.jpg);
+    height: 450px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    font-size: large;
+    color: white;
+  }
+  
+
+.first-menu{
+    color: white;
+    padding-top: 20px;
+    padding-left: 130px;
+    display: flex;
+}
+
+.first-menu ul li{
+    list-style: none;
+    display: flex;
+    padding: 15px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+.flex{
+    display: flex;
+    margin-left: 550px;
+    
+}
+
+.zomato{
+    padding-left:600px;
+    height: 85px;
+    padding-top: 25px;
+}
+
+.coimbatore{
+    padding-left: 300px;
+    padding-top: 30px;
+    font-size: 35px;
+    list-style: none;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.search{
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.search i{
+    color: rgba(255, 60, 60, 0.699);
+    margin: 5px;
+}
+
+.location {
+    display: flex;
+    align-items: center;
+    border-right: 1px solid #ccc;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+
+
+.location input {
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color: #333;
+}
+
+.dropdown{
+    margin-left: 5px;
+    color: #333;
+}
+
+.search-input {
+    flex-grow: 1;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.search-input::placeholder {
+    color: #aaa;
+}
+.lin{
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
