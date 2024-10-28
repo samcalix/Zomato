@@ -6,6 +6,7 @@ const bodyParser = require("body-parser");
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken")
 
+
 //middleware connect to frontend
 app.use(cors());
 app.use(express.json());
